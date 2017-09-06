@@ -1,0 +1,2 @@
+# Time-series-remote-sensing-construction-IDL-code-
+It is a IDL-based program for generating a smooth daily time series remote sensing dataset, specifically developed for working with non-equitdistant spacing time series data. It also works well with MODIS, SPOT-VEG. The story of developing this program can referred to my  article: Pan Z., Mapping crop phenology using NDVI time-series derived from HJ-1 A/B data. Welcome to use and good luck with your research.
